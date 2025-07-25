@@ -1,2 +1,0 @@
-# shuu
-first demo,
